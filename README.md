@@ -1,2 +1,2 @@
-# Cinema-Restriction-System
+# Restriction-System
 This project objective is to design a program that grants users their tickets to see a desired film, provided they have scanned their ID and they are old enough to watch the film. The learning objectives for this project are to familiarise/master object-oriented programming and image processing, master appropriate code seperation and organisation/formatting, optimisation techniques (profiling functions and optimisation etc.), and increase familiarity with SQLite3 database creation and data manipulation. 
